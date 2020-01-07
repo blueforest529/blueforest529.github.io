@@ -1,3 +1,7 @@
+---
+layout: post
+title: mysql DB data foramt 변경하기
+---
 
 DB에서 날짜를 가져올 때
 

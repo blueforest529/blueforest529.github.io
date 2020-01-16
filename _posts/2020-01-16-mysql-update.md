@@ -5,8 +5,10 @@ title: MySQL function update 에러
 
 MySQL에서 function update시 간혹 
 
-ERROR 1418 (HY000) : This function hasn none of DETERMINISTIC, NO SQL, or READS SQL DATA in its declaration and 
+<pre><code>
+This function hasn none of DETERMINISTIC, NO SQL, or READS SQL DATA in its declaration and 
 binary logging is enabled (you *might* want to use the less safe log_bin_trust_function_creators variable)
+</code></pre>
 
 이런 에러가 날 때가 있다.
 

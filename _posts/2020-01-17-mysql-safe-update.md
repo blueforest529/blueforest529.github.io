@@ -1,6 +1,6 @@
 ---
 layout: post
-title: mysql workbench safe mode 끄기
+title: [MySQL]mysql workbench safe mode 끄기
 ---
 Mysql Workbench에서 update를 하다보면 
 

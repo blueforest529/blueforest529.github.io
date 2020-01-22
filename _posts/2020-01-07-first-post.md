@@ -1,14 +1,14 @@
 ---
 layout: post
-title: mysql DB data foramt º¯°æÇÏ±â
+title: [MySQL] DB data foramt ë³€ê²½í•˜ê¸°
 ---
 
-DB¿¡¼­ ³¯Â¥¸¦ °¡Á®¿Ã ¶§
+DBì—ì„œ ë‚ ì§œë¥¼ ê°€ì ¸ì˜¬ ë•Œ
 
-SELECT date_format(ÄÃ·³¸í, '%Y-%m-%d %H:%i:%s') as ÄÃ·³¸í
+SELECT date_format(ì»¬ëŸ¼ëª…, '%Y-%m-%d %H:%i:%s') as ì»¬ëŸ¼ëª…
 
-FROM table¸í
+FROM tableëª…
 
-WHERE Á¶°Ç;
+WHERE ì¡°ê±´;
 
-À¸·Î ³¯Â¥ Æ÷¸Ë º¯°æÇÏ¿© Äõ¸® °á°ú °¡Á®¿À±â
+ìœ¼ë¡œ ë‚ ì§œ í¬ë§· ë³€ê²½í•˜ì—¬ ì¿¼ë¦¬ ê²°ê³¼ ê°€ì ¸ì˜¤ê¸°

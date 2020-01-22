@@ -1,6 +1,6 @@
 ---
 layout: post
-title: eclipse neon exe 다운로드
+title: [eclipse] eclipse NEON exe 다운로드
 ---
 오랜만에 집에서 개발하는 노트북에 Spring을 셋팅하려다가 꼬여서 엉망진창이 되어버렸다...
 

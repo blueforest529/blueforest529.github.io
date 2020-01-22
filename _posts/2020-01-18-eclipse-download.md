@@ -1,6 +1,6 @@
 ---
 layout: post
-title: \[eclipse\] eclipse NEON exe 다운로드
+title: 〔eclipse〕eclipse NEON exe 다운로드
 subtitle: 
 ---
 

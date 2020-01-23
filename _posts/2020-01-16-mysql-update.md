@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MySQL function update 에러
+title: 〔MySQL〕MySQL function update 에러
 ---
 
 MySQL에서 function update시 간혹 

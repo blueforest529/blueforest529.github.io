@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 〔MySQL〕MySQL function update 에러
+title: '[MySQL] MySQL function update 에러'
+published: true
 ---
 
 MySQL에서 function update시 간혹 

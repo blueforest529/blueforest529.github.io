@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 〔eclipse〕eclipse NEON exe 다운로드
-subtitle: 
+title: '[eclipse] eclipse NEON exe 다운로드'
+published: true
 ---
 
 오랜만에 집에서 개발하는 노트북에 Spring을 셋팅하려다가 꼬여서 엉망진창이 되어버렸다...
@@ -17,5 +17,3 @@ subtitle:
 **64비트 기준!!**
 
 <https://www.eclipse.org/downloads/download.php?file=/oomph/epp/neon/R2a/eclipse-inst-win64.exe>
-
-

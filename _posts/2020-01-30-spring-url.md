@@ -1,6 +1,5 @@
 ---
 layout: post
-published: false
 title: '[Spring] URL주소 설정하기'
 ---
 spring 초기 셋팅 후 톰캣을 실행하면

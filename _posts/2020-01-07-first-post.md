@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 〔MySQL〕 DB data foramt 변경하기
+title: '[MySQL] DB data foramt 변경하기'
+published: true
 ---
 
 DB에서 날짜를 가져올 때

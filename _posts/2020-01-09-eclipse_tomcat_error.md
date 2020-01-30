@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 〔eclipse〕이클립스 톰켓 서버 에러
+title: '[eclipse] 이클립스 톰켓 서버 에러'
+published: true
 ---
 이클립스 서버 에러
 

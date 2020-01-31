@@ -1,3 +1,9 @@
+---
+layout: post
+title: '[MySQL] DB data foramt 변경하기'
+published: true
+---
+
 오늘의 삽질이다... ㅎㅎ
 
 <code><pre>

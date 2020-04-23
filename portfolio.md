@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Portfolio
-subtitle: À¥ °³¹ßÀÚ ÀÓÃ»ÀÇ Æ÷Æ®Æú¸®¿À????
+subtitle: ì›¹ ê°œë°œì ì„ì²­ì˜ í¬íŠ¸í´ë¦¬ì˜¤ğŸ‘©ğŸ»â€ğŸ’»
 ---
 
 My name is Inigo Montoya. I have the following qualities:

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Portfolio
-subtitle: Why you'd want to go on a date with me
+subtitle: 웹 개발자 임청의 포트폴리오????
 ---
 
 My name is Inigo Montoya. I have the following qualities:

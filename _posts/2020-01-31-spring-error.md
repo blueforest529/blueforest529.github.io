@@ -6,9 +6,9 @@ published: true
 
 오늘의 삽질이다... ㅎㅎ
 
-<code><pre>
+<pre>
 Caused by: com.mysql.cj.exceptions.InvalidConnectionAttributeException: The server time zone value '????α? ????' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
-</pre></code>
+</pre>
 
 이 에러가 발생을 했다... 
 (jdbc 버전 : 8.0.17)

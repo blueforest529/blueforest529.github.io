@@ -18,6 +18,8 @@ subtitle: 웹 개발자 임청의 포트폴리오👩🏻‍💻
 
 ## 대외 활동
 #### 컨퍼런스 와 세미나
+
+
 | Left-Aligned  | Center Aligned  | Right Aligned |
 | :------------ |:---------------:| -----:|
 | col 3 is      | some wordy text | $1600 |

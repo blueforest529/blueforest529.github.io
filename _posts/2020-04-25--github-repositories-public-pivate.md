@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: '[GitHub] Repositories public -> pivate로 변경 후 호스팅 안될 때'
 ---
 저번에 회사 사람과 점심을 먹다가 깃허브 비공개 저장소를 무료로 만들수 있다는 따끈 따끈한 소식을 들었던 기억이 나 오늘 내 깃허브 블로그로 실험을 해보았다...

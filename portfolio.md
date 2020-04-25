@@ -24,5 +24,4 @@ subtitle: 웹 개발자 임청의 포트폴리오👩🏻‍💻
 2018.03|2018년 3월 파이썬 세미나|어쩌다보니 체감상 계속 0년차.. (웹 개발자 편)  |https://www.onoffmix.com/event/129456
 2017.10|Maker Faire Seoul 2017| 메이커들이 모여 직접 만든 것을 보여주고 설명 하는 메이커들의 축제 |https://makerfaire.co.kr/maker-faire-seoul-2017
 2017.07|우분투 한국 커뮤니티 7월 정기 세미나|정보보안과 사물인터넷|https://www.onoffmix.com/event/106038
-2017.05|우분투 한국 커뮤니티 5월 정기 세미나|오픈소스 프로젝트에 기여하기
-|https://www.onoffmix.com/event/99631
+2017.05|우분투 한국 커뮤니티 5월 정기 세미나|오픈소스 프로젝트에 기여하기|https://www.onoffmix.com/event/99631

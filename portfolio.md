@@ -13,9 +13,13 @@ subtitle: 웹 개발자 임청의 포트폴리오👩🏻‍💻
 
 ## 보유 기술
 #### Programming Language
+- Java(~8), JavaScript, C, C++, C#, Python
 #### Framework/Library
+- SpringFramework, jQuery, EasyUI
 #### Server
+- MySQL, Apache,Tomcat, Oracle, Maria
 #### Environment
+- Linux, Windows, AWS
 #### Tool
 
 ## 프로젝트

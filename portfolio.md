@@ -11,15 +11,22 @@ subtitle: 웹 개발자 임청의 포트폴리오👩🏻‍💻
 - 한국방송통신대학교 컴퓨터과학과 2학년 재학 중
 - [SQI소프트 보안사업부](http://www.sqisoft.com/ko/main)[2018.11 ~ 2020.01]
 
+
+
 ## 보유 기술
+
 #### Programming Language
 - Java(~8), JavaScript, C, C++, C#, Python
+
 #### Framework/Library
 - SpringFramework, jQuery, EasyUI
+
 #### Server
 - MySQL, Apache,Tomcat, Oracle, Maria
+
 #### Environment
 - Linux, Windows, AWS
+
 #### Tool
 
 ## 프로젝트
@@ -27,6 +34,7 @@ subtitle: 웹 개발자 임청의 포트폴리오👩🏻‍💻
 #### 2018
 #### 2017
 #### 2016
+
 
 ## 대외 활동
 #### 컨퍼런스 와 세미나

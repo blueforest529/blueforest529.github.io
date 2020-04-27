@@ -38,13 +38,21 @@ subtitle: 웹 개발자 임청의 포트폴리오👩🏻‍💻
 <summary>망연계 보안 솔루션 관리자 페이지</summary>
 <div markdown="1">
   - 기간 : 2018.11 ~ 2020.01
+  
   - OS : Linux
+  
   - Web backend : Java, mizz framework(자체 framework), Maria DB, MySQL
+  
   - Web frontend : Html5, Css3, JS, jQuery, JSP(4.0버전 이상), PHP(4.0버전 이하)
+  
   - 망연계 보안 솔루션 관리자 페이지 담당 개발 및 유지 보수 메인 개발 총 2명
+  
   - 주요 레퍼런스 : 한국은행, 국방부, 대통령비서실, 안랩, 우정사업본부, 국민은행 등
+  
   ![관리자 페이지1]({{site.baseurl}}/C:\Users\imche\OneDrive\바탕 화면\222.png)
+  
   ![관리자 페이지2]({{site.baseurl}}/C:\Users\imche\OneDrive\바탕 화면\3333.png)
+  
 </div>
 </details>
 

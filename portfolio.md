@@ -12,25 +12,31 @@ subtitle: 웹 개발자 임청의 포트폴리오👩🏻‍💻
 - [SQI소프트 보안사업부](http://www.sqisoft.com/ko/main)[2018.11 ~ 2020.01]
 
 
-
 ## 보유 기술
 
 #### Programming Language
-- Java(~8), JavaScript, C, C++, C#, Python
+- Java(~8), JavaScript, php, C, C++, C#, Python, NodeJS, Android 
 
 #### Framework/Library
 - SpringFramework, jQuery, EasyUI
 
 #### Server
-- MySQL, Apache,Tomcat, Oracle, Maria
+- MySQL, Apache,Tomcat, Oracle, Maria, SQLite, Firebase
 
 #### Environment
-- Linux, Windows, AWS
+- Linux(centOS 8, Ubuntu, Rad Hat), Windows, AWS
 
-#### Tool
+#### Development Tool
+- Eclips, Visual Studio, Visual Code, Atom, Mysql Workbench, SourceTree, EditPlus, Oracle VM VirtualBox, TeraTerm
 
 ## 프로젝트
 #### 2019
+<details>
+<summary>망연계 보안 솔루션 웹 개발 담당</summary>
+<div markdown="1">
+  망연계 보안 솔루션 웹 개발 담당
+</div>
+</details>
 #### 2018
 #### 2017
 #### 2016

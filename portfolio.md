@@ -28,7 +28,7 @@ subtitle: 웹 개발자 임청의 포트폴리오👩🏻‍💻
 - Linux(centOS 6~, Ubuntu), Windows, AWS
 
 #### Development Tool
-- Eclips, Visual Studio, Visual Code, Atom, Mysql Workbench, SourceTree, EditPlus, Oracle VM VirtualBox, TeraTerm
+- Git, SVN, Eclips, Visual Studio, Visual Code, Atom, Mysql Workbench, SourceTree, EditPlus, Oracle VM VirtualBox, TeraTerm
 
 
 
@@ -37,52 +37,6 @@ subtitle: 웹 개발자 임청의 포트폴리오👩🏻‍💻
 
 <details>
 <summary> 웹을 통한 망간 파일전송 솔루션 [2018.11 ~ 2020.01] </summary>
-<div markdown="1">
-  
-  - OS : Linux
-  
-  - Web backend : Java, mizz framework(자체 framework), Maria DB, MySQL
-  
-  - Web frontend : Html5, Css3, JS, jQuery, JSP(4.0버전 이상), PHP(4.0버전 이하)
-  
-  - 망연계 보안 솔루션 관리자 페이지 담당 개발 및 유지 보수 메인 개발 총 2명
-  
-  - 주요 레퍼런스 : 한국은행, 국방부, 대통령비서실, 안랩, 우정사업본부, 국민은행 등
-  
-  ![관리자 페이지1]({{site.baseurl}}/img/관리자 페이지1.PNG)
-  
-  ![관리자 페이지2]({{site.baseurl}}/img/관리자 페이지2.PNG)
-  
-</div>
-</details>
-
-<br>
-
-<details>
-<summary> 망연계 보안 솔루션 관리자 페이지 [2018.11 ~ 2020.01] </summary>
-<div markdown="1">
-  
-  - OS : Linux
-  
-  - Web backend : Java, mizz framework(자체 framework), Maria DB, MySQL
-  
-  - Web frontend : Html5, Css3, JS, jQuery, JSP, PHP
-  
-  - 망연계 보안 솔루션 관리자 페이지 담당 개발 및 유지 보수 메인 개발 총 2명
-  
-  - 주요 레퍼런스 : 한국은행, 국방부, 대통령비서실, 안랩, 우정사업본부, 국민은행 등
-  <img src="/img/관리자 페이지1.PNG" height="100px" width="300px">  <img src="/img/관리자 페이지2.PNG" height="100px" width="300px">
-  ![관리자 페이지1]({{site.baseurl}}/img/관리자 페이지1.PNG)
-  
-  ![관리자 페이지2]({{site.baseurl}}/img/관리자 페이지2.PNG)
-  
-</div>
-</details>
-
-<br>
-
-<details>
-<summary> 메일 변환 솔루션 [2019.09 ~ 2020.01] </summary>
 <div markdown="1">
   
   - OS : Linux

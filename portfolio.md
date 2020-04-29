@@ -22,7 +22,7 @@ subtitle: 웹 개발자 임청의 포트폴리오👩🏻‍💻
 - SpringFramework, jQuery, EasyUI, Highchart, Smarty, JsTree
 
 #### Server
-- MySQL, Apache,Tomcat, Oracle, Maria, SQLite, Firebase
+- MySQL, Elastricsearch, Apache,Tomcat, Oracle, Maria, SQLite, Firebase
 
 #### Environment
 - Linux(centOS 6~, Ubuntu), Windows, AWS

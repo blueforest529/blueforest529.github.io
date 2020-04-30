@@ -40,6 +40,7 @@ subtitle: 웹 개발자 임청의 포트폴리오👩🏻‍💻
 <details>
 <summary> 메일 변환 연계 솔루션(SMEX) [2019.09 - 2020.01] </summary>
 <div markdown="1">
+  
   - OS : Window server 2012
   
   - Web backend : Java, Mizz framework(자체 framework), MySQL, Apache, Tomcat
@@ -48,8 +49,9 @@ subtitle: 웹 개발자 임청의 포트폴리오👩🏻‍💻
   
   - Engine : C, C++
   
-  - 주요 레퍼런스 : 국민연금공단, 기업데이터, 한국도로공사, 한공우주산업 등
+  - 주요 레퍼런스 : 국민연금공단, 기업데이터, 다우데이타, 항공우주산업 등
   
+  ![ex_screenshot](./img/스맥스1.png)
 </div>
 </details>
 
@@ -57,6 +59,7 @@ subtitle: 웹 개발자 임청의 포트폴리오👩🏻‍💻
 <details>
 <summary> 웹을 통한 망간 파일 전송(Web FileMover) [2018.11 - 2020.01] </summary>
 <div markdown="1">
+  
   - OS : Linux(CentOS 6.9 ~)
   
   - Web backend : Java, Mizz framework(자체 framework), Maria DB, MySQL, Apache, Tomcat
@@ -72,6 +75,7 @@ subtitle: 웹 개발자 임청의 포트폴리오👩🏻‍💻
 <details>
 <summary> 망간 데이터 연계 솔루션 관리자 페이지(SBM) [2018.11 - 2020.01] </summary>
 <div markdown="1">
+  
   - OS : Linux(CentOS 6.9 ~)
   
   - Web backend : Java, Mizz framework(자체 framework), Maria DB, MySQL, Elasticsearch, Apache, Tomcat

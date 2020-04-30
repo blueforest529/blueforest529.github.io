@@ -56,7 +56,6 @@ subtitle: 웹 개발자 임청의 포트폴리오👩🏻‍💻
 </div>
 </details>
 
-<br>
 <details>
 <summary> 웹을 통한 망간 파일 전송(Web FileMover) [2018.11 - 2020.01] </summary>
 <div markdown="1">
@@ -73,7 +72,6 @@ subtitle: 웹 개발자 임청의 포트폴리오👩🏻‍💻
 </div>
 </details>
 
-<br>
 <details>
 <summary> 망간 데이터 연계 솔루션 관리자 페이지(SBM) [2018.11 - 2020.01] </summary>
 <div markdown="1">
@@ -89,13 +87,6 @@ subtitle: 웹 개발자 임청의 포트폴리오👩🏻‍💻
    ![관리자 페이지2]({{site.baseurl}}/img/sbm캡쳐.PNG)
 </div>
 </details>
-
-
-#### Programming
-
-#### Android
-
-#### Security
 
 
 ## 대외 활동

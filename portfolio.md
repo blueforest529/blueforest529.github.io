@@ -95,19 +95,24 @@ subtitle: 웹 개발자 임청의 포트폴리오👩🏻‍💻
 <summary> Fact Check [2018] </summary>
 <div markdown="1">
   
+  - 사용자가 뉴스기사의 진실성 여부를 판단하는데에 도움을 주는 생활 앱
+  
   - Python, Django, Android, Html5, CSS3, JS
   
-   ![app이미지]({{site.baseurl}}/img/App캡쳐.PNG)
+   ![app이미지]({{site.baseurl}}/img/App캡쳐.PNG){: width="200" height="200"}
+
 </div>
 </details>
 
 #### Web
 
 <details>
-<summary> Fact Check [2018] </summary>
+<summary> 레알 [2017] </summary>
 <div markdown="1">
   
-  - Python, Django, Android, Html5, CSS3, JS
+  - 실시간으로 날씨 정보를 알려주는 IoT와 웹 서비스
+  
+  - Html5, Css3, JS, jQuery, MySQL, Raspberry Pi, Arduino, 3D printer, 비 센서, 온습도 센서 등
   
    ![app이미지]({{site.baseurl}}/img/App캡쳐.PNG)
 </div>

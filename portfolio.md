@@ -99,7 +99,7 @@ subtitle: 웹 개발자 임청의 포트폴리오👩🏻‍💻
   
   - Python, Django, Android, Html5, CSS3, JS
   
-   ![app이미지]({{site.baseurl}}/img/App캡쳐.PNG){: width="200" height="200"}
+   ![app이미지]({{site.baseurl}}/img/App캡쳐.PNG){: width="280" height="280"}
 
 </div>
 </details>
@@ -107,14 +107,30 @@ subtitle: 웹 개발자 임청의 포트폴리오👩🏻‍💻
 #### Web
 
 <details>
+<summary> 전시Mate [2018] </summary>
+<div markdown="1">
+  
+  - 관람객과 전시자의 소통을 도와주는 디지털 사이니지 서비스
+  
+  - FireBase, React JS, Html5, CSS3, JS, jQuary, PHP, MySQL
+  
+  - Raspberry PI
+  
+   ![전시mate]({{site.baseurl}}/img/전시mate.PNG){: width="280" height="280"}
+   
+</div>
+</details>
+
+
+<details>
 <summary> 레알 [2017] </summary>
 <div markdown="1">
   
   - 실시간으로 날씨 정보를 알려주는 IoT와 웹 서비스
   
-  - Html5, Css3, JS, jQuery, MySQL, Raspberry Pi, Arduino, 3D printer, 비 센서, 온습도 센서 등
+  - Html5, Css3, JS, jQuery, MySQL, Raspberry Pi, Arduino, 3D printer
   
-   ![app이미지]({{site.baseurl}}/img/App캡쳐.PNG)
+   ![레알]({{site.baseurl}}/img/.PNG){: width="280" height="280"}
 </div>
 </details>
 

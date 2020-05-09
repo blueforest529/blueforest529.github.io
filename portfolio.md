@@ -51,7 +51,7 @@ subtitle: 웹 개발자 임청의 포트폴리오👩🏻‍💻
   
   - 주요 레퍼런스 : 국민연금공단, 기업데이터, 다우데이타, 항공우주산업 등
   
-  ![관리자 페이지2]({{site.baseurl}}/img/스맥스캡쳐.PNG)
+  ![smex이미지]({{site.baseurl}}/img/스맥스캡쳐.PNG)
 
 </div>
 </details>
@@ -68,7 +68,7 @@ subtitle: 웹 개발자 임청의 포트폴리오👩🏻‍💻
 
   - 주요 레퍼런스 : 한국은행, 국방부, 대통령 비서실, Ahnlab, 우정사업본부, 국민은행 등
   
-   ![관리자 페이지2]({{site.baseurl}}/img/웹fm캡쳐.PNG)
+   ![webfm 이미지]({{site.baseurl}}/img/웹fm캡쳐.PNG)
 </div>
 </details>
 
@@ -84,9 +84,35 @@ subtitle: 웹 개발자 임청의 포트폴리오👩🏻‍💻
   
   - 주요 레퍼런스 : 한국은행, 국방부, 대통령 비서실, Ahnlab, 우정사업본부, 국민은행 등
   
-   ![관리자 페이지2]({{site.baseurl}}/img/sbm캡쳐.PNG)
+   ![sbm이미지]({{site.baseurl}}/img/sbm캡쳐.PNG)
 </div>
 </details>
+
+
+#### App
+
+<details>
+<summary> Fact Check [2018] </summary>
+<div markdown="1">
+  
+  - Python, Django, Android, Html5, CSS3, JS
+  
+   ![app이미지]({{site.baseurl}}/img/App캡쳐.PNG)
+</div>
+</details>
+
+#### Web
+
+<details>
+<summary> Fact Check [2018] </summary>
+<div markdown="1">
+  
+  - Python, Django, Android, Html5, CSS3, JS
+  
+   ![app이미지]({{site.baseurl}}/img/App캡쳐.PNG)
+</div>
+</details>
+
 
 
 ## 대외 활동

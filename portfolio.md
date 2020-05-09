@@ -99,7 +99,7 @@ subtitle: 웹 개발자 임청의 포트폴리오👩🏻‍💻
   
   - Python, Django, Android, Html5, CSS3, JS
   
-   ![app이미지]({{site.baseurl}}/img/App캡쳐.PNG){: width="280" height="280"}
+   ![app이미지]({{site.baseurl}}/img/App캡쳐.PNG){: width="350" height="350"}
 
 </div>
 </details>
@@ -116,7 +116,7 @@ subtitle: 웹 개발자 임청의 포트폴리오👩🏻‍💻
   
   - Raspberry PI
   
-   ![전시mate]({{site.baseurl}}/img/전시mate.PNG){: width="280" height="280"}
+   ![전시mate]({{site.baseurl}}/img/전시mate.PNG){: width="350" height="350"}
    
 </div>
 </details>
@@ -130,7 +130,7 @@ subtitle: 웹 개발자 임청의 포트폴리오👩🏻‍💻
   
   - Html5, Css3, JS, jQuery, MySQL, Raspberry Pi, Arduino, 3D printer
   
-   ![레알]({{site.baseurl}}/img/.PNG){: width="280" height="280"}
+   ![레알]({{site.baseurl}}/img/레알.PNG){: width="350" height="350"}
 </div>
 </details>
 

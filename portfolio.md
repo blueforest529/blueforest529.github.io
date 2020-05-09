@@ -92,12 +92,12 @@ subtitle: 웹 개발자 임청의 포트폴리오👩🏻‍💻
 #### App
 
 <details>
-<summary> Fact Check [2018] </summary>
+<summary> Fact Check [2017] </summary>
 <div markdown="1">
   
   - 사용자가 뉴스기사의 진실성 여부를 판단하는데에 도움을 주는 생활 앱
   
-  - Python, Django, Android, Html5, CSS3, JS
+  - 사용 기술 : Python, Django, Android, Html5, CSS3, JS
   
    ![app이미지]({{site.baseurl}}/img/App캡쳐.PNG){: width="350" height="350"}
 
@@ -107,14 +107,12 @@ subtitle: 웹 개발자 임청의 포트폴리오👩🏻‍💻
 #### Web
 
 <details>
-<summary> 전시Mate [2018] </summary>
+<summary> 전시Mate [2017] </summary>
 <div markdown="1">
   
   - 관람객과 전시자의 소통을 도와주는 디지털 사이니지 서비스
   
-  - FireBase, React JS, Html5, CSS3, JS, jQuary, PHP, MySQL
-  
-  - Raspberry PI
+  - 사용 기술 : FireBase, React JS, Html5, CSS3, JS, jQuary, PHP, MySQL, Raspberry PI
   
    ![전시mate]({{site.baseurl}}/img/전시mate.PNG){: width="350" height="350"}
    
@@ -123,14 +121,15 @@ subtitle: 웹 개발자 임청의 포트폴리오👩🏻‍💻
 
 
 <details>
-<summary> 레알 [2017] </summary>
+<summary> 레알 [2016] </summary>
 <div markdown="1">
   
   - 실시간으로 날씨 정보를 알려주는 IoT와 웹 서비스
   
-  - Html5, Css3, JS, jQuery, MySQL, Raspberry Pi, Arduino, 3D printer
+  - 사용 기술 : Html5, Css3, JS, jQuery, MySQL, Raspberry Pi, Arduino, 3D printer
   
    ![레알]({{site.baseurl}}/img/레알.PNG){: width="350" height="350"}
+   
 </div>
 </details>
 

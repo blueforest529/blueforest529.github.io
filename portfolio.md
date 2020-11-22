@@ -10,7 +10,7 @@ subtitle: 웹 개발자 임청의 포트폴리오👩🏻‍💻
 - phone : 010.3822.8115
 - 한국방송통신대학교 컴퓨터과학과 2학년 재학 중
 - [SQI소프트 보안사업부](http://www.sqisoft.com/ko/main)[2018.11 ~ 2020.01]
-
+- [펜타시큐리티 와플개발부](https://www.pentasecurity.co.kr/)[2020.07 ~ 현재]
 
 
 ## 보유 기술
@@ -19,13 +19,13 @@ subtitle: 웹 개발자 임청의 포트폴리오👩🏻‍💻
 - Java(~8), JavaScript, php, C, C++, C#, Python, NodeJS, Android 
 
 #### Framework/Library
-- SpringFramework, jQuery, EasyUI, Highchart, Smarty, JsTree
+- SpringFramework, Phalcon, jQuery, EasyUI, Highchart, Smarty, JsTree
 
 #### Server
 - MySQL, Elastricsearch, Apache,Tomcat, Oracle, Maria, SQLite, Firebase
 
 #### Environment
-- Linux(centOS 6~, Ubuntu), Windows, AWS
+- Linux(centOS 6~, Ubuntu, Debian), Windows, AWS
 
 #### Development Tool
 - Git, SVN, Eclips, Visual Studio, Visual Code, Atom, Mysql Workbench, SourceTree, EditPlus, Oracle VM VirtualBox, TeraTerm
